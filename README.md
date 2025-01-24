@@ -2,4 +2,4 @@
 
 Author: Morgan Dean
 
-Solving merge conflics is soooo hard.
+Solving merge conflicts takes conscious effort, but I can do it!
